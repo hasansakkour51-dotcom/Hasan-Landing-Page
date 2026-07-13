@@ -1,6 +1,6 @@
 # Hasan's Landing Page
 
-[Live Demo](https://your-demo-link.com)
+[View Website Live Demo](https://aquamarine-chimera-8cd7be.netlify.app/)
 
 ## 📖 Overview
 The **Hasan's Landing Page** is a modern, animated website template showcasing a clean, responsive design with immersive visuals. It features a dynamic hero section with animated waves, a stylized island illustration, and a water‑text loader effect. Built with **HTML, CSS, and Animate.js**, the page emphasizes motion, clarity, and professional navigation.
